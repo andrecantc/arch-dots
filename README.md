@@ -1,2 +1,2 @@
 # arch-dots
-dotfiles for Latt dock and neofetch
+dotfiles for Latte dock,neofetch and kde theme
